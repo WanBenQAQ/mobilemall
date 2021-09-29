@@ -1,0 +1,1 @@
+<view class="videos"><video autoplay="{{true}}" loop="{{true}}" show-mute-btn="{{true}}" src="{{$root.m0}}"></video></view>
